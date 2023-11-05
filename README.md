@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying on [WEB DEVELOPMENT](IN GUVI)
 
-- 🌱 I’m currently learning MERN Stack **FULL STACK DEVELOPER**
+- 🌱 I’m learning MERN Stack **FULL STACK DEVELOPER**
 
 - 👨‍💻 All of my tasks are available at GITHUB [https://github.com/MOWNIKAPremkumar](https://github.com/MOWNIKAPremkumar)
 
@@ -17,10 +17,13 @@
 
 - 📫 How to reach me **mowni02mani09@gmail.com**
 
+- 📄 Know about my experiences [https://docs.google.com/document/d/16YTwRDpdF4jUKJ3rvaNBThTXLbqXgekvK2KQbRVgO_E/edit?usp=sharing](https://docs.google.com/document/d/16YTwRDpdF4jUKJ3rvaNBThTXLbqXgekvK2KQbRVgO_E/edit?usp=sharing)
+
 - ⚡ Fun fact **FIRST COMPUTER BUG WAS ACTUALLY A REAL "BUG"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/mownika n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mownika n" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
