@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mowni02mani09@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/16YTwRDpdF4jUKJ3rvaNBThTXLbqXgekvK2KQbRVgO_E/edit?usp=sharing](https://docs.google.com/document/d/16YTwRDpdF4jUKJ3rvaNBThTXLbqXgekvK2KQbRVgO_E/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/16YTwRDpdF4jUKJ3rvaNBThTXLbqXgekvK2KQbRVgO_E/edit?usp=sharing](https://docs.google.com/document/d/16YTwRDpdF4jUKJ3rvaNBThTXLbqXgekvK2KQbRVgO_E/edit?usp=sharing), https://www.linkedin.com/in/mownika-n-84358b264/
 
 - ⚡ Fun fact **FIRST COMPUTER BUG WAS ACTUALLY A REAL "BUG"**
 
