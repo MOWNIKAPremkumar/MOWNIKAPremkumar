@@ -7,6 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently studying on **WEB DEVELOPMENT**
+
+- 🌱 I’m currently learning MERN Stack **FULL STACK DEVELOPER**
+
+- 👯 I’m studying FULLSTACK DEVELOPER **IN GUVI**
+
+- 👨‍💻 All of my tasks are available at GITHUB [https://github.com/MOWNIKAPremkumar](https://github.com/MOWNIKAPremkumar)
+
 - 💬 Ask me about HTML,CSS, JAVASCRICT, BOOTSTRAP **JAVASCRIPT, HTML,CSS,BOOTSTRAP**
 
 - 📫 How to reach me **mowni02 mani09@gmail.com**
