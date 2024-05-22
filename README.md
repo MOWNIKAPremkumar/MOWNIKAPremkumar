@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently studying on [WEB DEVELOPMENT](IN GUVI)
+- 🔭 I’m currently a trainee in WEB DEVELOPMENT at GUVI
 
-- 🌱 I’m learning MERN Stack **FULL STACK DEVELOPER**
+- 🌱 I’m a MERN Stack **FULL STACK DEVELOPER**
 
 - 👨‍💻 All of my tasks are available at GITHUB [https://github.com/MOWNIKAPremkumar](https://github.com/MOWNIKAPremkumar)
 
-- 💬 Ask me about **JAVASCRIPT,HTML,CSS,BOOTSTRAP**
+- 💬 Ask me about **JAVASCRIPT,HTML,CSS,BOOTSTRAP,React,MySql,MongoDb,Expresss Js,Node Js**
 
-- 📫 How to reach me **mowni02mani09@gmail.com**
+- 📫 How to reach me **mmownika98@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/16YTwRDpdF4jUKJ3rvaNBThTXLbqXgekvK2KQbRVgO_E/edit?usp=sharing](https://docs.google.com/document/d/16YTwRDpdF4jUKJ3rvaNBThTXLbqXgekvK2KQbRVgO_E/edit?usp=sharing), https://www.linkedin.com/in/mownika-n-84358b264/
+- 📄 Know about my experiences [https://docs.google.com/document/d/16YTwRDpdF4jUKJ3rvaNBThTXLbqXgekvK2KQbRVgO_E/edit?usp=sharing](https://docs.google.com/document/d/16YTwRDpdF4jUKJ3rvaNBThTXLbqXgekvK2KQbRVgO_E/edit?usp=sharing), https://www.linkedin.com/in/mownika-n-2939a830a/
 
 - ⚡ Fun fact **FIRST COMPUTER BUG WAS ACTUALLY A REAL "BUG"**
 
