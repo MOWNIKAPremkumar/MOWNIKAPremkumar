@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOWNIKA.N</h1>
-<h3 align="center">A PASSIONATE FULLSTACK DEVELOPER FROM TAMILNADU</h3>
+<h3 align="center">A PASSIONATE FULLSTACK DEVELOPER </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mownikapremkumar&label=Profile%20views&color=0e75b6&style=flat" alt="mownikapremkumar" /> </p>
 
