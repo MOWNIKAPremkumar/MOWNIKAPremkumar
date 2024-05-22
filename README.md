@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mownikapremkumar" alt="mownikapremkumar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently a trainee in WEB DEVELOPMENT at GUVI
-
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
+ 
 - 🌱 I’m a MERN Stack **FULL STACK DEVELOPER**
+- 
+- 🔭 I’m currently a trainee in WEB DEVELOPMENT at GUVI
 
 - 👨‍💻 All of my tasks are available at GITHUB [https://github.com/MOWNIKAPremkumar](https://github.com/MOWNIKAPremkumar)
 
